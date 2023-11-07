@@ -1,14 +1,13 @@
 
-<div align="center"> <h1 align="center"> Heyyy👋My name is Nisanth Mahalingam </h1> </div>
+<div align="center"> <h1 align="center"> Heyyy👋</h1> </div>
+<div align="center"> <h1 align="center"> My name is Nisanth Mahalingam </h1> </div>
+<div align="center"> <h1 align="center"> Data Analyst </h1> </div>
 <p align="center">
  🔭 I’m currently working on building my computational finance and algorithmic trading portfolio.
 <p align="center">
  🌱 I’m currently learning how to build algorithmic trading bots on QuantConnect and Computational Finance models on Github 
 <p align="center">
  ⚡ Fun fact: I am currently trying to learn Mandarin and enjoy dancing.
-
-<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
-<b>Hi, My name is Nisanth Mahalingam. I am a data professional.<b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
