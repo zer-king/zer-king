@@ -1,7 +1,6 @@
 
-<div align="center"> <h1 align="center"> Heyyy👋</h1> </div>
-<div align="center"> <h1 align="center"> My name is Nisanth Mahalingam </h1> </div>
-<div align="center"> <h1 align="center"> Data Analyst </h1> </div>
+<div align="center"> <h1 align="center"> Heyyy👋</h1> 
+ <h2 align="center"> My name is Nisanth Mahalingam and I am a Data Analyst </h2></div>
 <p align="center">
  🔭 I’m currently working on building my computational finance and algorithmic trading portfolio.
 <p align="center">
