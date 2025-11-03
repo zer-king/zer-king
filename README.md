@@ -7,13 +7,13 @@
   🔭 Currently building a portfolio of algorithmic trading strategies and computational finance models.
 </p>
 <p align="center">
-  🧠 Exploring multi-timeframe trend logic, backtesting frameworks, and strategy optimization across platforms like MetaTrader and QuantConnect.
+  🧠 Exploring multi-timeframe trend logic, backtesting frameworks, and strategy optimization on platforms like MetaTrader.
 </p>
 <p align="center">
   🌱 Learning to deploy trading bots, integrate financial APIs, and model market regimes using Python, MQL5, and C++.
 </p>
 <p align="center">
-  ⚡ Fun fact: I’m learning Mandarin and enjoy dancing — balance matters, even in the markets.
+  ⚡ Fun fact: I’m learning Russian and enjoy dancing — balance matters, even in the markets.
 </p>
 
 <hr>
