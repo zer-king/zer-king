@@ -29,6 +29,7 @@
   <a href="#" target="_blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/></a>
   <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="60"/></a>
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" alt="Excel" height="60"/> </a>
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" alt="MQL5" height="60"/> </a>
   <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="60"/></a>
   <a href="#" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/></a>
 </p>
